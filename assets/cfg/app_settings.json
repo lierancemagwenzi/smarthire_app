@@ -1,0 +1,11 @@
+{
+
+
+  "base_url": "http://105.27.158.226:4000/sh-console/public/",
+  "api_base_url": "http://105.27.158.226:6294/api/",
+
+  "base_url2": "https://tumadelivery.ngrok.io/",
+  "api_base_url2": "https://tumadelivery.ngrok.io/api/"
+
+}
+

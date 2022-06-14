@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607761875171",
+    "project_id": "smarthire-ed5d5",
+    "storage_bucket": "smarthire-ed5d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607761875171:android:2b1753644cce5dd22c45d6",
+        "android_client_info": {
+          "package_name": "za.co.dynamicwowsolutions.smarthire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607761875171-bo8ui26n70q84ku001aqvek3nep08kad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_d23GbpswVGfWsuM-QI1-DCh_-gcL0fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607761875171-bo8ui26n70q84ku001aqvek3nep08kad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
